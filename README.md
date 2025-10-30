@@ -3,7 +3,7 @@ This repository contains the source code for my personal portfolio website.
 
 Live Demo
 
-You can view the live version of the portfolio here: https://PriyalSaini.vercel.app/
+You can view the live version of the portfolio here: https://my-personal-portfolio-five-tawny.vercel.app/
 ---
 ## 📋 Features
 
